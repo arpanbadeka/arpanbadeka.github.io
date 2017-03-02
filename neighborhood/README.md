@@ -1,4 +1,4 @@
-## Framingham Neighbourhood Map
+## Framingham Neighborhood Map
 
 ## Libraries, frameworks and APIs used
 1. Knockout JS
