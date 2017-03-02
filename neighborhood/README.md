@@ -8,8 +8,8 @@
 5. JQuery
 
 ## How to View This App
-1. Test the app at: https://otsop110.github.io/neighbourhood-map/ or
-2. Download the source code from my repo at GitHub: https://github.com/otsop110/neighbourhood-map.git and open /index.html in your browser.
+1. Test the app at: http://arpanbadeka.github.io/neighborhood/or
+2. Download the source code from my repo at GitHub: https://github.com/arpanbadeka/Neighborhood-Maps.git and open /index.html in your browser.
 
 ## Helpful Resources
 * [Foursquare for Developers](https://developer.foursquare.com/)
